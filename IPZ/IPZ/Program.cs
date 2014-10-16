@@ -8,6 +8,7 @@ namespace IPZ
 {
     static class Program
     {
+        /// jestem tutaj
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
